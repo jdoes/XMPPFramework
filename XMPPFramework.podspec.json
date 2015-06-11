@@ -15,7 +15,7 @@
     "Robbie Hanson": "robbiehanson@deusty.com"
   },
   "source": {
-    "git": "https://github.com/eagle-dan1349/XMPPFramework.git",
+    "git": "https://github.com/jdoes/XMPPFramework.git",
     "tag": "3.6.4"
   },
   "resources": [
